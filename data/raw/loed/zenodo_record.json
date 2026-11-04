@@ -1,0 +1,205 @@
+{
+  "created": "2020-10-23T14:04:28.372244+00:00",
+  "modified": "2024-07-19T14:38:40.790643+00:00",
+  "id": 4121430,
+  "conceptrecid": "4048254",
+  "doi": "10.5281/zenodo.4121430",
+  "conceptdoi": "10.5281/zenodo.4048254",
+  "doi_url": "https://doi.org/10.5281/zenodo.4121430",
+  "metadata": {
+    "title": "LoED: The LoRaWAN at the Edge Dataset",
+    "doi": "10.5281/zenodo.4121430",
+    "publication_date": "2020-09-25",
+    "description": "<p>This repository contains dataset from nine LoRaWAN gateways collected in an urban environment. The dataset contains raw payload information, along with other metadata from the gateway. The dataset can be cited at:</p>\n\n<p><strong>Dataset: LoED: The LoRaWAN at the Edge Dataset</strong><br>\nLaksh Bhatia, Michael Breza, Ramona Marfievici, Julie A. McCann<br>\nProceedings of the Third Workshop on Data Acquisition To Analysis (DATA &#39;20), 2020</p>\n\n<p><strong>Files in the folder</strong></p>\n\n<ul>\n\t<li><strong>README.md</strong><br>\n\tA readme file detailing&nbsp;the gateway location, model and statistics about the data collected at each of the gateways.</li>\n\t<li><strong>Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf</strong><br>\n\tA readme file detailing&nbsp;the gateway location, model and statistics about the data collected at each of the gateways.</li>\n\t<li><strong>LoED_LoRaWAN_at_edge_dataset.zip</strong><br>\n\tA zip file containing&nbsp;all data files. Data files are in <strong>dd_mm_yyyy.csv</strong> format with one file for every day of the collection campaign</li>\n\t<li><strong>LoED_LoRaWAN_at_edge_dataset-SAMPLE.zip</strong><br>\n\tSample folder with only six days of data collection.</li>\n\t<li><strong>LoED_parser.ipynb</strong><br>\n\tA jupyter notebook to generate statistics of the dataset</li>\n\t<li><strong>LoED_parser.html</strong><br>\n\tHTML rendering of the LoRaDatasetParser.ipynb notebook</li>\n\t<li><strong>LoED_parser.py</strong><br>\n\tA python file to generate basic statistics from the dataset</li>\n</ul>",
+    "access_right": "open",
+    "creators": [
+      {
+        "name": "Bhatia, Laksh",
+        "affiliation": "Imperial College London",
+        "orcid": "0000-0002-9899-3930"
+      },
+      {
+        "name": "Breza, Michael",
+        "affiliation": "Imperial College London"
+      },
+      {
+        "name": "Marfievici, Ramona",
+        "affiliation": "Digital Catapult"
+      },
+      {
+        "name": "McCann, Julie A.",
+        "affiliation": "Imperial College London"
+      }
+    ],
+    "keywords": [
+      "LoRaWAN",
+      "Dataset",
+      "Gateways"
+    ],
+    "related_identifiers": [
+      {
+        "identifier": "10.1145/3419016.3431491",
+        "relation": "isCitedBy",
+        "scheme": "doi"
+      }
+    ],
+    "language": "eng",
+    "resource_type": {
+      "title": "Dataset",
+      "type": "dataset"
+    },
+    "meeting": {
+      "title": "Proceedings of the Third Workshop on Data Acquisition To Analysis",
+      "acronym": "DATA '20",
+      "dates": "November 16--19, 2020"
+    },
+    "license": {
+      "id": "cc-by-4.0"
+    },
+    "communities": [
+      {
+        "id": "workshopdata"
+      }
+    ],
+    "relations": {
+      "version": [
+        {
+          "index": 2,
+          "is_last": true,
+          "parent": {
+            "pid_type": "recid",
+            "pid_value": "4048254"
+          }
+        }
+      ]
+    }
+  },
+  "title": "LoED: The LoRaWAN at the Edge Dataset",
+  "links": {
+    "self": "https://zenodo.org/api/records/4121430",
+    "self_html": "https://zenodo.org/records/4121430",
+    "preview_html": "https://zenodo.org/records/4121430?preview=1",
+    "doi": "https://doi.org/10.5281/zenodo.4121430",
+    "self_doi": "https://doi.org/10.5281/zenodo.4121430",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4121430",
+    "reserve_doi": "https://zenodo.org/api/records/4121430/draft/pids/doi",
+    "parent": "https://zenodo.org/api/records/4048254",
+    "parent_html": "https://zenodo.org/records/4048254",
+    "parent_doi": "https://doi.org/10.5281/zenodo.4048254",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.4048254",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:4121430/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:4121430/sequence/default",
+    "files": "https://zenodo.org/api/records/4121430/files",
+    "media_files": "https://zenodo.org/api/records/4121430/media-files",
+    "thumbnails": {
+      "10": "https://zenodo.org/api/iiif/record:4121430:Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf/full/%5E10,/0/default.jpg",
+      "50": "https://zenodo.org/api/iiif/record:4121430:Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf/full/%5E50,/0/default.jpg",
+      "100": "https://zenodo.org/api/iiif/record:4121430:Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf/full/%5E100,/0/default.jpg",
+      "250": "https://zenodo.org/api/iiif/record:4121430:Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf/full/%5E250,/0/default.jpg",
+      "750": "https://zenodo.org/api/iiif/record:4121430:Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf/full/%5E750,/0/default.jpg",
+      "1200": "https://zenodo.org/api/iiif/record:4121430:Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf/full/%5E1200,/0/default.jpg"
+    },
+    "latest": "https://zenodo.org/api/records/4121430/versions/latest",
+    "latest_html": "https://zenodo.org/records/4121430/latest",
+    "versions": "https://zenodo.org/api/records/4121430/versions",
+    "draft": "https://zenodo.org/api/records/4121430/draft",
+    "access_links": "https://zenodo.org/api/records/4121430/access/links",
+    "access_grants": "https://zenodo.org/api/records/4121430/access/grants",
+    "access_users": "https://zenodo.org/api/records/4121430/access/users",
+    "access_request": "https://zenodo.org/api/records/4121430/access/request",
+    "access": "https://zenodo.org/api/records/4121430/access",
+    "communities": "https://zenodo.org/api/records/4121430/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/4121430/communities-suggestions",
+    "request_deletion": "https://zenodo.org/api/records/4121430/request-deletion",
+    "file_modification": "https://zenodo.org/api/records/4121430/file-modification",
+    "quota_increase": "https://zenodo.org/api/records/4121430/quota-increase",
+    "requests": "https://zenodo.org/api/records/4121430/requests"
+  },
+  "updated": "2024-07-19T14:38:40.790643+00:00",
+  "recid": "4121430",
+  "revision": 6,
+  "files": [
+    {
+      "id": "c483e858-08a1-49a2-a3af-af644f46807c",
+      "key": "LoED_parser.html",
+      "size": 19726888,
+      "checksum": "md5:47a00ccf72efa74af850845258aa230c",
+      "links": {
+        "self": "https://zenodo.org/api/records/4121430/files/LoED_parser.html/content"
+      }
+    },
+    {
+      "id": "97799049-94ed-4ded-8a05-9fa07f8140ea",
+      "key": "README.md",
+      "size": 2901,
+      "checksum": "md5:accd2aad8f6e299274100cd9ced12a9a",
+      "links": {
+        "self": "https://zenodo.org/api/records/4121430/files/README.md/content"
+      }
+    },
+    {
+      "id": "6584e030-5d71-4c83-9297-618868bbb4b6",
+      "key": "LoED_parser.py",
+      "size": 5353,
+      "checksum": "md5:a91ef0d21ac7c2e7f76a51cb306847d9",
+      "links": {
+        "self": "https://zenodo.org/api/records/4121430/files/LoED_parser.py/content"
+      }
+    },
+    {
+      "id": "4dea37ef-df18-4181-a1b1-7d035b376fbf",
+      "key": "LoED_parser.ipynb",
+      "size": 73508169,
+      "checksum": "md5:06b683f25210e03f8b499edb27595b0d",
+      "links": {
+        "self": "https://zenodo.org/api/records/4121430/files/LoED_parser.ipynb/content"
+      }
+    },
+    {
+      "id": "af9f6035-4d32-4330-b9fe-d1ebb940b880",
+      "key": "LoED_LoRaWAN_at_edge_dataset.zip",
+      "size": 398334263,
+      "checksum": "md5:280b2751d9407fb729f45dfed190e6f1",
+      "links": {
+        "self": "https://zenodo.org/api/records/4121430/files/LoED_LoRaWAN_at_edge_dataset.zip/content"
+      }
+    },
+    {
+      "id": "4cdac704-f915-4dca-84e0-38365a3b3761",
+      "key": "LoED_LoRaWAN_at_edge_dataset-SAMPLE.zip",
+      "size": 11667218,
+      "checksum": "md5:7370baddc9b546354c26a71cd38981bc",
+      "links": {
+        "self": "https://zenodo.org/api/records/4121430/files/LoED_LoRaWAN_at_edge_dataset-SAMPLE.zip/content"
+      }
+    },
+    {
+      "id": "52af1721-fd17-40a2-80fa-33d314a1752c",
+      "key": "Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf",
+      "size": 392978,
+      "checksum": "md5:06794b926606161d3e9f41c1c535d0a8",
+      "links": {
+        "self": "https://zenodo.org/api/records/4121430/files/Laksh_Bhatia_LoED_LoRaWAN_at_the_edge.pdf/content"
+      }
+    }
+  ],
+  "swh": {},
+  "owners": [
+    {
+      "id": "104703"
+    }
+  ],
+  "status": "published",
+  "stats": {
+    "downloads": 9059,
+    "unique_downloads": 6870,
+    "views": 6330,
+    "unique_views": 5766,
+    "version_downloads": 8289,
+    "version_unique_downloads": 6183,
+    "version_unique_views": 5007,
+    "version_views": 5525
+  },
+  "state": "done",
+  "submitted": true
+}

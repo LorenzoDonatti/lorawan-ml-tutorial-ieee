@@ -1,0 +1,127 @@
+[
+  {
+    "path": "data/raw/antwerp/antwerp_localization.csv",
+    "url": "https://raw.githubusercontent.com/LorenzoDonatti/ML_meets_networks_ERRC2026/e7b18b4133d3544ad4d6ed15e3599167031c54f7/data/antwerp_localization.csv",
+    "sha256": "3e608fc640763ca9aa26ac81da3e8c020de6eb2c66ccc8c4d0a1a2a41eb98831",
+    "bytes": 1909403,
+    "license": "CC BY 4.0",
+    "original_name": "antwerp_localization.csv"
+  },
+  {
+    "path": "data/raw/antwerp/antwerp_gateways.csv",
+    "url": "https://raw.githubusercontent.com/LorenzoDonatti/ML_meets_networks_ERRC2026/e7b18b4133d3544ad4d6ed15e3599167031c54f7/data/antwerp_gateways.csv",
+    "sha256": "51a8e5cbb16f3412a53a23ff1d527e02ec673fb744fe8fd941694eff60c24793",
+    "bytes": 1656,
+    "license": "CC BY 4.0",
+    "original_name": "antwerp_gateways.csv"
+  },
+  {
+    "path": "data/raw/bonn/samples.csv",
+    "url": "https://raw.githubusercontent.com/mclab-hbrs/lora-bonn/main/survey/samples.csv",
+    "sha256": "0332836a044d8ca2b9b04eb18f48924a5e39724c9fbcea33ec9807e891687841",
+    "bytes": 6709505,
+    "license": "dl-de/by-2-0",
+    "original_name": "samples.csv"
+  },
+  {
+    "path": "data/raw/bonn/gateways.csv",
+    "url": "https://raw.githubusercontent.com/mclab-hbrs/lora-bonn/main/survey/gateways.csv",
+    "sha256": "c7b2e2e25ab0e43aab511630579de4adf61cb36cbfd6279129b5bccbab1cd3cc",
+    "bytes": 290,
+    "license": "dl-de/by-2-0",
+    "original_name": "gateways.csv"
+  },
+  {
+    "path": "data/raw/uva/sensor01_gatewayA.parquet",
+    "url": "https://dataverse.lib.virginia.edu/api/access/datafile/102381",
+    "sha256": "f0fa847129257b58f1687b4a9e95083be511f0cd769736bfd1cb30619d3d643e",
+    "bytes": 2810027,
+    "license": "CC BY 4.0",
+    "original_name": "sensor01_gatewayA.parquet",
+    "file_id": 102381,
+    "dataset_version": "1.0",
+    "source_record": "doi:10.18130/V3/RFTICK"
+  },
+  {
+    "path": "data/raw/uva/sensor02_gatewayA.parquet",
+    "url": "https://dataverse.lib.virginia.edu/api/access/datafile/102375",
+    "sha256": "490cd47dc7f36c65a7d4cd2338ae0bf5f84ea45cd81f17dc283b26ba8e48d28d",
+    "bytes": 2754798,
+    "license": "CC BY 4.0",
+    "original_name": "sensor02_gatewayA.parquet",
+    "file_id": 102375,
+    "dataset_version": "1.0",
+    "source_record": "doi:10.18130/V3/RFTICK"
+  },
+  {
+    "path": "data/raw/uva/sensor03_gatewayA.parquet",
+    "url": "https://dataverse.lib.virginia.edu/api/access/datafile/102394",
+    "sha256": "c22dcc0f9f63b1d05573fed5f990b1f1d99edaa8fa4fb13dd6b12319919fd3ff",
+    "bytes": 2812206,
+    "license": "CC BY 4.0",
+    "original_name": "sensor03_gatewayA.parquet",
+    "file_id": 102394,
+    "dataset_version": "1.0",
+    "source_record": "doi:10.18130/V3/RFTICK"
+  },
+  {
+    "path": "data/raw/uva/sensor04_gatewayA.parquet",
+    "url": "https://dataverse.lib.virginia.edu/api/access/datafile/102386",
+    "sha256": "13667e2e48f2733f6dbcd96a5218784b16beef7c717842109f26f094dea8a732",
+    "bytes": 2798852,
+    "license": "CC BY 4.0",
+    "original_name": "sensor04_gatewayA.parquet",
+    "file_id": 102386,
+    "dataset_version": "1.0",
+    "source_record": "doi:10.18130/V3/RFTICK"
+  },
+  {
+    "path": "data/source_archives/antwerp_2019.json",
+    "url": "https://zenodo.org/api/records/3904158/files/lorawan_antwerp_2019_dataset.json.txt/content",
+    "sha256": "f2f1fbd478cdef2b76fb8e3aae33751d332b50fc8546684d8e73fdb1505451cb",
+    "bytes": 96148293,
+    "license": "CC BY 4.0"
+  },
+  {
+    "path": "data/source_archives/antwerp_gateways.json",
+    "url": "https://zenodo.org/api/records/3904158/files/lorawan_antwerp_gateway_locations.json.txt/content",
+    "sha256": "507f9bb266d23f59fdc2b743447cecf9c909290536e24de3f9483aaa178d374d",
+    "bytes": 14896,
+    "license": "CC BY 4.0"
+  },
+  {
+    "path": "data/source_archives/medellin.zip",
+    "url": "https://raw.githubusercontent.com/magonzalezudem/MDPI_LoRaWAN_Dataset_With_Environmental_Variables/f4283d8f49326a9398e1aa955e29db7bca4857b3/LoRaWAN%20Path%20Loss%20Measurement%20Campaign.zip",
+    "sha256": "7c21bfd90744e1f03e783febad4623e7f8dab1d05bff3b5559fbc783d09d2966",
+    "bytes": 20430932,
+    "license": "CC BY 4.0"
+  },
+  {
+    "path": "data/source_archives/loed_sample.zip",
+    "url": "https://zenodo.org/records/4121430/files/LoED_LoRaWAN_at_edge_dataset-SAMPLE.zip?download=1",
+    "sha256": "6b9d20ad3a513fde35b05f9f250da6da815068d13cdc78035fcce915b25fc046",
+    "bytes": 11667218,
+    "license": "CC BY 4.0"
+  },
+  {
+    "path": "data/raw/brno/City_center_Long-Term.csv",
+    "url": "https://raw.githubusercontent.com/BUTResearch/MDPI_Data_Urban_LPWA_Measurement/1ee5fbbd38ee9ba6462c28d8803f0ad8b2a54f5c/City_center_Long-Term.csv",
+    "sha256": "5395a0b449b419b6711d51fa062fb092b296096396d40e26a09ac942d84df7fe",
+    "bytes": 29483,
+    "license": "CC BY 4.0; repository MIT notice also retained"
+  },
+  {
+    "path": "data/raw/brno/BUT_Long-Term.csv",
+    "url": "https://raw.githubusercontent.com/BUTResearch/MDPI_Data_Urban_LPWA_Measurement/1ee5fbbd38ee9ba6462c28d8803f0ad8b2a54f5c/BUT_Long-Term.csv",
+    "sha256": "d0c635acc1e9dbb35a67a9aa2f52c0474fa3ae67cb291475d0de35e5395c0242",
+    "bytes": 26525,
+    "license": "CC BY 4.0; repository MIT notice also retained"
+  },
+  {
+    "path": "data/raw/brno/LICENSE",
+    "url": "https://raw.githubusercontent.com/BUTResearch/MDPI_Data_Urban_LPWA_Measurement/1ee5fbbd38ee9ba6462c28d8803f0ad8b2a54f5c/LICENSE",
+    "sha256": "d6ca78a504d89d65132d679437f3e0bcf6f6728f26e662b89cc832f38d74e5a3",
+    "bytes": 1068,
+    "license": "CC BY 4.0; repository MIT notice also retained"
+  }
+]

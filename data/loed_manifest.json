@@ -1,0 +1,46 @@
+{
+  "source": "https://doi.org/10.5281/zenodo.4121430",
+  "download_url": "https://zenodo.org/records/4121430/files/LoED_LoRaWAN_at_edge_dataset-SAMPLE.zip?download=1",
+  "sample_md5": "7370baddc9b546354c26a71cd38981bc",
+  "sample_sha256": "6b9d20ad3a513fde35b05f9f250da6da815068d13cdc78035fcce915b25fc046",
+  "license": {
+    "id": "cc-by-4.0"
+  },
+  "raw_rows": 326870,
+  "eligible_receptions": 223065,
+  "files": 6,
+  "utc_dates": [
+    "2019-03-02",
+    "2019-03-03",
+    "2019-04-02",
+    "2020-05-02",
+    "2020-07-03",
+    "2020-08-02",
+    "2020-08-03",
+    "2020-09-02"
+  ],
+  "profiles": 1852,
+  "addresses": 1005,
+  "features": [
+    "log_count",
+    "rssi_mean",
+    "rssi_std",
+    "snr_mean",
+    "snr_std",
+    "sf_mean",
+    "sf_std",
+    "log_median_gap",
+    "log_gap_iqr",
+    "frequency_count"
+  ],
+  "hashes": {
+    "data/raw/loed/02_04_2019.csv": "1511b66e4deaa749b48651100a2d47f929f51e990650fb7693282d2fe50a7c5d",
+    "data/raw/loed/02_05_2020.csv": "7b0b4724eaaeb3cd6797113c9361ec18a5be6a31349280b9be8f7fea92740d1f",
+    "data/raw/loed/02_09_2020.csv": "1aa2fdc8db884981e43b572c5ba4da331c7d6a6f420598ef1e655f7037cca8fd",
+    "data/raw/loed/03_03_2019.csv": "cfb63919b02adc9c3f556f86937a013fa75455217316f8505f04bdefbdc9e0f6",
+    "data/raw/loed/03_07_2020.csv": "db41084b71dced3837ba8374a22e2f6e77f688500813babfb915593a0a635737",
+    "data/raw/loed/03_08_2020.csv": "2ae879f42691f8a1eab64b15ee44338b4e86e68ae40870dc65dd6535aa36dc11"
+  },
+  "profile_sha256": "de8ccc6b0905833fbd1c1275bf89a1cb88e0447340ad4884448adc1bc2febdb2",
+  "interpretation": "Per UTC day, gateway and observed address; >=20 CRC-valid data-uplink receptions. No inferred device identity, transmission denominator or incident label."
+}

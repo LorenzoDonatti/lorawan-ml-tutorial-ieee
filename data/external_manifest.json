@@ -1,0 +1,25 @@
+{
+  "dataset": "Medellin environmental path loss",
+  "repository": "https://github.com/magonzalezudem/MDPI_LoRaWAN_Dataset_With_Environmental_Variables",
+  "commit": "f4283d8f49326a9398e1aa955e29db7bca4857b3",
+  "archive": "LoRaWAN Path Loss Measurement Campaign.zip",
+  "archive_sha256": "7c21bfd90744e1f03e783febad4623e7f8dab1d05bff3b5559fbc783d09d2966",
+  "member": "LoRaWAN Path Loss Measurement Campaign No Outliers V2.csv",
+  "article": "https://doi.org/10.3390/data8010004",
+  "license": "CC BY 4.0 (dataset descriptor)",
+  "acquired": "2026-10-21",
+  "method": "git clone of author repository, exact ZIP member extraction",
+  "caveat": "Upstream file is already filtered (No Outliers V2); raw pre-filter observations are not supplied here.",
+  "files": [
+    {
+      "path": "data/raw/medellin/measurements.csv",
+      "bytes": 158902656,
+      "sha256": "f99d6ed55f46edeec3854e3f0e829d3bfd4b6732b65d25580c61f813f72c7a6e"
+    },
+    {
+      "path": "data/raw/medellin/UPSTREAM_README.md",
+      "bytes": 2961,
+      "sha256": "2b2760754a45da9cca944d4b9bb9f80b38f516bb48cbf5ea98e18c52af0ceba6"
+    }
+  ]
+}

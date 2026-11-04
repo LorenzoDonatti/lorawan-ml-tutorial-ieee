@@ -1,0 +1,45 @@
+{
+  "repository": "https://github.com/BUTResearch/MDPI_Data_Urban_LPWA_Measurement",
+  "commit": "1ee5fbbd38ee9ba6462c28d8803f0ad8b2a54f5c",
+  "article": "https://doi.org/10.3390/data6060062",
+  "acquired": "2026-10-21",
+  "dataset_license": "CC BY 4.0 per article; repository also contains MIT LICENSE (copied). Keep both attribution records.",
+  "status": "two long-term CSVs imported and schema audited; no models fitted",
+  "files": [
+    {
+      "path": "data/raw/brno/City_center_Long-Term.csv",
+      "bytes": 29483,
+      "sha256": "5395a0b449b419b6711d51fa062fb092b296096396d40e26a09ac942d84df7fe",
+      "rows": 1079,
+      "columns": [
+        "time",
+        "rssi",
+        "snr"
+      ],
+      "start": "2020-03-04 08:25:57.478389978+00:00",
+      "end": "2020-05-07 13:33:13.461250067+00:00",
+      "duplicate_timestamps": 48,
+      "sorted_in_source": false
+    },
+    {
+      "path": "data/raw/brno/BUT_Long-Term.csv",
+      "bytes": 26525,
+      "sha256": "d0c635acc1e9dbb35a67a9aa2f52c0474fa3ae67cb291475d0de35e5395c0242",
+      "rows": 1078,
+      "columns": [
+        "time",
+        "rssi",
+        "snr"
+      ],
+      "start": "2020-03-04 10:32:09.475769997+00:00",
+      "end": "2020-05-07 18:51:09.583659887+00:00",
+      "duplicate_timestamps": 0,
+      "sorted_in_source": true
+    },
+    {
+      "path": "data/raw/brno/LICENSE",
+      "bytes": 1068,
+      "sha256": "d6ca78a504d89d65132d679437f3e0bcf6f6728f26e662b89cc832f38d74e5a3"
+    }
+  ]
+}

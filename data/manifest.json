@@ -1,0 +1,72 @@
+[
+  {
+    "path": "data/raw/antwerp/antwerp_localization.csv",
+    "source_url": "https://doi.org/10.5281/zenodo.3904158",
+    "license": "CC BY 4.0",
+    "attribution": "Aernouts et al.; derivative by Donatti and Fagundes, ERRC 2026",
+    "download_url": "https://raw.githubusercontent.com/LorenzoDonatti/ML_meets_networks_ERRC2026/e7b18b4133d3544ad4d6ed15e3599167031c54f7/data/antwerp_localization.csv",
+    "original_name": "antwerp_localization.csv",
+    "sha256": "3e608fc640763ca9aa26ac81da3e8c020de6eb2c66ccc8c4d0a1a2a41eb98831",
+    "bytes": 1909403
+  },
+  {
+    "path": "data/raw/antwerp/antwerp_gateways.csv",
+    "source_url": "https://doi.org/10.5281/zenodo.3904158",
+    "license": "CC BY 4.0",
+    "attribution": "Aernouts et al.; derivative by Donatti and Fagundes, ERRC 2026",
+    "download_url": "https://raw.githubusercontent.com/LorenzoDonatti/ML_meets_networks_ERRC2026/e7b18b4133d3544ad4d6ed15e3599167031c54f7/data/antwerp_gateways.csv",
+    "original_name": "antwerp_gateways.csv",
+    "sha256": "51a8e5cbb16f3412a53a23ff1d527e02ec673fb744fe8fd941694eff60c24793",
+    "bytes": 1656
+  },
+  {
+    "path": "data/raw/bonn/samples.csv",
+    "source_url": "https://doi.org/10.1109/VTC2021-Fall52928.2021.9625531",
+    "license": "dl-de/by-2-0",
+    "attribution": "Rademacher, Linka, Horstmann and Henze, 2021",
+    "download_url": "https://raw.githubusercontent.com/mclab-hbrs/lora-bonn/main/survey/samples.csv",
+    "original_name": "samples.csv",
+    "sha256": "0332836a044d8ca2b9b04eb18f48924a5e39724c9fbcea33ec9807e891687841",
+    "bytes": 6709505
+  },
+  {
+    "path": "data/raw/bonn/gateways.csv",
+    "source_url": "https://doi.org/10.1109/VTC2021-Fall52928.2021.9625531",
+    "license": "dl-de/by-2-0",
+    "attribution": "Rademacher, Linka, Horstmann and Henze, 2021",
+    "download_url": "https://raw.githubusercontent.com/mclab-hbrs/lora-bonn/main/survey/gateways.csv",
+    "original_name": "gateways.csv",
+    "sha256": "c7b2e2e25ab0e43aab511630579de4adf61cb36cbfd6279129b5bccbab1cd3cc",
+    "bytes": 290
+  },
+  {
+    "path": "data/raw/uva/sensor01_gatewayA.parquet",
+    "source_url": "https://doi.org/10.18130/V3/RFTICK",
+    "license": "CC BY 4.0",
+    "attribution": "Nikseresht, Leal Sobral, Goodall and Campbell, 2025",
+    "download_url": "",
+    "original_name": "sensor01_gatewayA.parquet",
+    "sha256": "f0fa847129257b58f1687b4a9e95083be511f0cd769736bfd1cb30619d3d643e",
+    "bytes": 2810027
+  },
+  {
+    "path": "data/raw/uva/sensor02_gatewayA.parquet",
+    "source_url": "https://doi.org/10.18130/V3/RFTICK",
+    "license": "CC BY 4.0",
+    "attribution": "Nikseresht, Leal Sobral, Goodall and Campbell, 2025",
+    "download_url": "",
+    "original_name": "sensor02_gatewayA.parquet",
+    "sha256": "490cd47dc7f36c65a7d4cd2338ae0bf5f84ea45cd81f17dc283b26ba8e48d28d",
+    "bytes": 2754798
+  },
+  {
+    "path": "data/raw/uva/sensor03_gatewayA.parquet",
+    "source_url": "https://doi.org/10.18130/V3/RFTICK",
+    "license": "CC BY 4.0",
+    "attribution": "Nikseresht, Leal Sobral, Goodall and Campbell, 2025",
+    "download_url": "",
+    "original_name": "sensor03_gatewayA.parquet",
+    "sha256": "c22dcc0f9f63b1d05573fed5f990b1f1d99edaa8fa4fb13dd6b12319919fd3ff",
+    "bytes": 2812206
+  }
+]

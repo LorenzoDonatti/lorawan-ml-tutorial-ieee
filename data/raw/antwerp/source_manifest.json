@@ -1,0 +1,81 @@
+{
+  "source": "https://zenodo.org/records/3904158",
+  "license": "CC-BY-4.0",
+  "seed": 42,
+  "raw_packets": 130430,
+  "observed_gateways_json": 44,
+  "gateways_with_coordinates": 39,
+  "excluded_gateways": [
+    "004A05D4",
+    "004A0D9C",
+    "004A0DA4",
+    "C0000209",
+    "C000028C"
+  ],
+  "excluded_packets_without_known_gateway": 163,
+  "train_last_day_utc": "2019-01-24 00:00:00+00:00",
+  "validation_last_day_utc": "2019-02-01 00:00:00+00:00",
+  "eligible_by_split": {
+    "treino": 94125,
+    "validacao": 20054,
+    "teste": 16088
+  },
+  "sample_by_split": {
+    "treino": 8000,
+    "validacao": 2000,
+    "teste": 2000
+  },
+  "sampling": "Uniforme sem reposição dentro de cada partição temporal; não balanceia posições.",
+  "features": [
+    "rssi_004A026B",
+    "rssi_080605EE",
+    "rssi_08060622",
+    "rssi_08060716",
+    "rssi_080E00B9",
+    "rssi_080E0116",
+    "rssi_080E0149",
+    "rssi_FF01031C",
+    "rssi_FF01052A",
+    "rssi_FF010560",
+    "rssi_FF010581",
+    "rssi_FF010595",
+    "rssi_FF0105B5",
+    "rssi_FF0105C2",
+    "rssi_FF0105CB",
+    "rssi_FF010603",
+    "rssi_FF010605",
+    "rssi_FF01060B",
+    "rssi_FF010628",
+    "rssi_FF010639",
+    "rssi_FF010667",
+    "rssi_FF010714",
+    "rssi_FF010719",
+    "rssi_FF010721",
+    "rssi_FF01072B",
+    "rssi_FF010739",
+    "rssi_FF0107BB",
+    "rssi_FF0107C9",
+    "rssi_FF01085B",
+    "rssi_FF010877",
+    "rssi_FF010894",
+    "rssi_FF0108A3",
+    "rssi_FF010930",
+    "rssi_FF010957",
+    "rssi_FF01099B",
+    "rssi_FF010EFE",
+    "rssi_FF01753E",
+    "rssi_FF017649",
+    "rssi_FF0178DF"
+  ],
+  "target": [
+    "lat",
+    "lon"
+  ],
+  "timestamp": "Menor timestamp de recepção do pacote, convertido para UTC.",
+  "sha256": {
+    "raw/antwerp_2019.json": "f2f1fbd478cdef2b76fb8e3aae33751d332b50fc8546684d8e73fdb1505451cb",
+    "raw/antwerp_gateways.json": "507f9bb266d23f59fdc2b743447cecf9c909290536e24de3f9483aaa178d374d",
+    "antwerp_localization.csv": "3e608fc640763ca9aa26ac81da3e8c020de6eb2c66ccc8c4d0a1a2a41eb98831",
+    "antwerp_gateways.csv": "51a8e5cbb16f3412a53a23ff1d527e02ec673fb744fe8fd941694eff60c24793"
+  }
+}

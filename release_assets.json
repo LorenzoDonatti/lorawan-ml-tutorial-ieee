@@ -1,0 +1,19 @@
+{
+  "version": "0.8.2-rc1",
+  "repository_url": "https://github.com/LorenzoDonatti/lorawan-ml-tutorial-ieee",
+  "status": "repository URL supplied by author; release availability not checked by this command",
+  "bundles": {
+    "teaching": {
+      "filename": "lorawan-ml-teaching-v0.8.2-rc1.zip",
+      "bytes": 15498726,
+      "sha256": "64d89ef9348ee0e72869430d67a0bc2d98acf8b02940e1589b608ac489e2d4a5",
+      "url": "https://github.com/LorenzoDonatti/lorawan-ml-tutorial-ieee/releases/download/v0.8.2-rc1/lorawan-ml-teaching-v0.8.2-rc1.zip"
+    },
+    "full": {
+      "filename": "lorawan-ml-tutorial-v0.8.2-rc1.zip",
+      "bytes": 329392801,
+      "sha256": "263451f69d2be36a4a33030201c4a75e8867eb6805db0c13fc4c17f946d5b3ee",
+      "url": "https://github.com/LorenzoDonatti/lorawan-ml-tutorial-ieee/releases/download/v0.8.2-rc1/lorawan-ml-tutorial-v0.8.2-rc1.zip"
+    }
+  }
+}

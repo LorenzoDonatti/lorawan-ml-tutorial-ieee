@@ -1,0 +1,11 @@
+{
+  "path": "data/raw/uva/sensor04_gatewayA.parquet",
+  "source_url": "https://doi.org/10.18130/V3/RFTICK",
+  "original_name": "sensor04_gatewayA.parquet",
+  "license": "CC BY 4.0, per preserved source documentation; remote recheck pending",
+  "method": "Read-only copy of existing public-data snapshot; not remotely reacquired",
+  "sha256": "13667e2e48f2733f6dbcd96a5218784b16beef7c717842109f26f094dea8a732",
+  "bytes": 2798852,
+  "selection": "sensor04 chosen by identifier before any performance inspection in this tutorial",
+  "scope": "additional link in the same UVA deployment"
+}

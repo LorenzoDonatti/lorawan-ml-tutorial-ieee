@@ -1,0 +1,17 @@
+{
+  "source": "UVA dataset version 1.0, sensor04_gatewayA.parquet",
+  "source_sha256": "13667e2e48f2733f6dbcd96a5218784b16beef7c717842109f26f094dea8a732",
+  "rows": 1008,
+  "selection": "first 42 calendar days; no selection by model performance",
+  "license": "CC BY 4.0; source attribution in data/README.md",
+  "role": "schema adaptation exercise within the same deployment, not an independent benchmark",
+  "timestamps": "UTC interval-closing time",
+  "fields": {
+    "closed_utc": "hour closing time",
+    "received_rssi_dbm": "arithmetic mean of received RSSI in dBm",
+    "received_snr_db": "arithmetic mean of recorded SNR in dB",
+    "receptions": "recorded RSSI reception count, not attempts",
+    "receiver": "gateway label",
+    "node": "sensor label"
+  }
+}
